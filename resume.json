@@ -1,0 +1,392 @@
+{
+    "basics": {
+        "name": "Pawan Kumar",
+        "email": "pawan20@navgurukul.org pawankumars2255@gmail.com",
+        "phone": "8221842876",
+        "photo": {
+            "url": "/api/assets/uploads/13116/13863/1648804532121.jpeg",
+            "filters": {
+                "size": 186,
+                "shape": "circle",
+                "border": true,
+                "grayscale": false
+            },
+            "visible": true
+        },
+        "summary": "I am strong in integration with intuitive problem solving skills. Proficient  in JavaScript, Python, SQL, Data Structure. Passionate about learning and implementing new technologies. Looking to start the career as an entry-level web developer with the reputed firm driven by technologies.  ",
+        "website": "",
+        "headline": "Software Developer",
+        "location": {
+            "city": "Narwana",
+            "region": "Haryana",
+            "address": "440/5 Babakundi Gali No. 3 Old Court Road Narwana district jind",
+            "country": "India",
+            "postalCode": "126116"
+        },
+        "profiles": [
+            {
+                "id": "2d3148f5-2925-45a1-9808-e468bd560786",
+                "url": "https://www.linkedin.com/in/pawan-songra-b1b427217/",
+                "network": "LinkedIn",
+                "username": "PAWAN SONGRA"
+            },
+            {
+                "id": "f91154cc-22c1-437e-9925-3b96a5456fd0",
+                "url": "https://github.com/pawankumar2255",
+                "network": "GitHub",
+                "username": "pawankumar2255"
+            },
+            {
+                "id": "90c36629-1bc5-4d57-af4d-202d5e889807",
+                "url": "https://leetcode.com/pk_1958/",
+                "network": "Leet Code",
+                "username": "pk_1958"
+            }
+        ]
+    },
+    "sections": {
+        "work": {
+            "id": "work",
+            "name": "Work Experience",
+            "type": "basic",
+            "items": [],
+            "columns": 2,
+            "visible": true
+        },
+        "awards": {
+            "id": "awards",
+            "name": "Awards",
+            "type": "basic",
+            "items": [],
+            "columns": 2,
+            "visible": true
+        },
+        "skills": {
+            "id": "skills",
+            "name": "Skills",
+            "type": "basic",
+            "items": [
+                {
+                    "id": "19791f2a-6b59-41de-b64c-57d523c4a95b",
+                    "name": "Python",
+                    "level": "",
+                    "keywords": [],
+                    "levelNum": 0
+                },
+                {
+                    "id": "b03d4bcc-9b8c-496c-9969-bad53b662026",
+                    "name": "JavaScript",
+                    "level": "",
+                    "keywords": [],
+                    "levelNum": 0
+                },
+                {
+                    "id": "950b044d-ab1a-425c-ae63-f64abe16ecee",
+                    "name": "HTML",
+                    "level": "",
+                    "keywords": [],
+                    "levelNum": 0
+                },
+                {
+                    "id": "b7e3153d-e5b4-48ce-a883-16bcd437ca74",
+                    "name": "CSS",
+                    "level": "",
+                    "keywords": [],
+                    "levelNum": 0
+                },
+                {
+                    "id": "d84951bd-2a57-4e7c-93f8-5fff3056cdf3",
+                    "name": "Data Structures and Algorithms",
+                    "level": "intermediate",
+                    "keywords": [],
+                    "levelNum": 0
+                },
+                {
+                    "id": "0278886c-67b1-467e-808f-68020cec7ef1",
+                    "name": "Node.js",
+                    "level": "",
+                    "keywords": [],
+                    "levelNum": 0
+                },
+                {
+                    "id": "fb978844-5e0b-4c94-9ae2-907b8c45ae74",
+                    "name": "MySQL",
+                    "level": "",
+                    "keywords": [],
+                    "levelNum": 0
+                }
+            ],
+            "columns": 2,
+            "visible": true
+        },
+        "projects": {
+            "id": "projects",
+            "name": "Projects",
+            "type": "basic",
+            "items": [
+                {
+                    "id": "60fb00de-0cac-4588-a416-8694f01b3beb",
+                    "url": "https://github.com/pawankumar2255/scientific-calculator-react",
+                    "date": {
+                        "end": "",
+                        "start": ""
+                    },
+                    "name": "Scientific Calculator",
+                    "summary": "This is a simple calculator I made just to calculate something.",
+                    "keywords": [],
+                    "description": "Used ReactJS"
+                },
+                {
+                    "id": "24b0700a-484e-4aa2-b16c-fa27cd741c1a",
+                    "url": "https://github.com/pawankumar2255/bike_rental_shop",
+                    "date": {
+                        "end": "",
+                        "start": ""
+                    },
+                    "name": "Bike Rental System",
+                    "summary": "In this project I used classes and OOPs concept in python",
+                    "keywords": [],
+                    "description": "Python"
+                },
+                {
+                    "id": "d9e8c895-b12e-46c0-9fcf-27d57f07f998",
+                    "url": "https://github.com/pawankumar2255/students-library-online",
+                    "date": {
+                        "end": "",
+                        "start": ""
+                    },
+                    "name": "Student Library",
+                    "summary": "This is a simple library just to show books which are fetching from an API.",
+                    "keywords": [],
+                    "description": "HTML, CSS, JS"
+                },
+                {
+                    "id": "ae245f17-1291-4662-b710-d40a3f40975b",
+                    "url": "https://github.com/pawankumar2255/Login_Signup_JWT",
+                    "date": {
+                        "end": "",
+                        "start": ""
+                    },
+                    "name": "Log-In Sign-up with JWT",
+                    "summary": "simple login signup with authentication.",
+                    "keywords": [],
+                    "description": "nodejs, express, mongodb"
+                }
+            ],
+            "columns": 1,
+            "visible": true
+        },
+        "education": {
+            "id": "education",
+            "name": "Education",
+            "type": "basic",
+            "items": [
+                {
+                    "id": "7b92652d-aa49-422c-8141-fa6b2b6c617f",
+                    "url": "https://www.navgurukul.org/",
+                    "area": "Computer Science",
+                    "date": {
+                        "end": "",
+                        "start": "2021-01-21T08:00:01.000Z"
+                    },
+                    "score": "",
+                    "degree": "Software Developer",
+                    "courses": [],
+                    "summary": "We are a non-profit dedicated to bring affordable tech education to underprivileged students in India.",
+                    "institution": "NavGurukul"
+                },
+                {
+                    "id": "a58ebf56-4d56-41de-97c5-0c367d73f6f2",
+                    "url": "https://navodaya.gov.in/nvs/en/Home1",
+                    "area": "",
+                    "date": {
+                        "end": "2019-04-04T18:30:00.000Z",
+                        "start": "2016-03-03T18:30:00.000Z"
+                    },
+                    "score": "",
+                    "degree": "12th",
+                    "courses": [],
+                    "summary": "Affiliated with CBSE",
+                    "institution": "Navodaya Vidyalaya Samiti"
+                },
+                {
+                    "id": "0571025c-4db7-49bd-896a-be7ebe9966ae",
+                    "url": "",
+                    "area": "Mathematics",
+                    "date": {
+                        "end": "2019-11-04T18:30:00.000Z",
+                        "start": "2017-04-06T18:30:00.000Z"
+                    },
+                    "score": "",
+                    "degree": "B.Sc.",
+                    "courses": [],
+                    "summary": "Dropped out college after first year.",
+                    "institution": "K.M Government College"
+                },
+                {
+                    "institution": "Devsnest",
+                    "degree": "Aspiring full-stack developer",
+                    "area": "Web-Development",
+                    "score": "",
+                    "date": {
+                        "start": "",
+                        "end": ""
+                    },
+                    "url": "https://devsnest.in/",
+                    "summary": "Fast track your tech career with India's largest peer learning ecosystem. Learning from\nindustry experts and get hired in top tech companies.",
+                    "courses": [],
+                    "id": "1f42a3d4-8b93-4dd2-9493-2f1fb608ee65"
+                }
+            ],
+            "columns": 1,
+            "visible": true
+        },
+        "interests": {
+            "id": "interests",
+            "name": "Interests",
+            "type": "basic",
+            "items": [],
+            "columns": 2,
+            "visible": true
+        },
+        "languages": {
+            "id": "languages",
+            "name": "Languages",
+            "type": "basic",
+            "items": [
+                {
+                    "id": "90500719-0706-4c3e-8bf2-adeda6a7a2bc",
+                    "name": "Hindi",
+                    "level": "Expert",
+                    "levelNum": 0
+                },
+                {
+                    "id": "c665a600-fce4-4f6b-a036-c32698ccefa8",
+                    "name": "English",
+                    "level": "Intermediate ",
+                    "levelNum": 0
+                }
+            ],
+            "columns": 2,
+            "visible": true
+        },
+        "volunteer": {
+            "id": "volunteer",
+            "name": "Volunteer Experience",
+            "type": "basic",
+            "items": [
+                {
+                    "id": "efe2e440-8df8-465e-95dd-3f8c125240a7",
+                    "url": "https://www.navgurukul.org/",
+                    "date": {
+                        "end": "",
+                        "start": "2021-07-01T08:13:59.000Z"
+                    },
+                    "summary": "Have been a python and JavaScript mentor of more than 50 students in NavGurukul.\nDeveloped skill of teaching by mentoring here in the Navgurukul.\n",
+                    "position": "Student Mentor",
+                    "organization": "NavGurukul"
+                },
+                {
+                    "id": "b7abc797-0f96-42d6-ac11-281f37a00484",
+                    "url": "",
+                    "date": {
+                        "end": "",
+                        "start": ""
+                    },
+                    "summary": "This is a post in NavGurukul where my duty was to caring and provide medicines to the students having health issues.\n\n",
+                    "position": "Health and Hygiene coordinator",
+                    "organization": "NavGurukul"
+                }
+            ],
+            "columns": 1,
+            "visible": true
+        },
+        "references": {
+            "id": "references",
+            "name": "References",
+            "type": "basic",
+            "items": [],
+            "columns": 2,
+            "visible": true
+        },
+        "publications": {
+            "id": "publications",
+            "name": "Publications",
+            "type": "basic",
+            "items": [],
+            "columns": 2,
+            "visible": true
+        },
+        "certifications": {
+            "id": "certifications",
+            "name": "Certifications",
+            "type": "basic",
+            "items": [
+                {
+                    "id": "3880c5e8-5ce6-401a-be2d-80bbe5a87e61",
+                    "url": "https://www.sololearn.com/certificates/course/en/24485136/1073/landscape/png",
+                    "date": "2022-02-08T08:08:12.000Z",
+                    "name": "Python Core",
+                    "issuer": "Sololearn",
+                    "summary": ""
+                },
+                {
+                    "id": "da817f36-8f30-4732-b6b4-389b87a27ba7",
+                    "url": "https://www.freecodecamp.org/certification/fcc43d73436-8e17-469b-938e-aa2eee8a0653/javascript-algorithms-and-data-structures",
+                    "date": "2022-03-29T16:08:59.000Z",
+                    "name": "JavaScript Algorithms and Data Structures",
+                    "issuer": "freecodecamp.org",
+                    "summary": ""
+                }
+            ],
+            "columns": 1,
+            "visible": true
+        }
+    },
+    "metadata": {
+        "css": {
+            "value": "/* Enter custom CSS here */\n\n* {\n    outline: 1px solid #000;\n}",
+            "visible": false
+        },
+        "date": {
+            "format": "MMMM DD, YYYY"
+        },
+        "theme": {
+            "text": "#000000",
+            "primary": "#4896d5",
+            "background": "#ffffff"
+        },
+        "layout": [
+            [
+                [
+                    "work",
+                    "education",
+                    "projects",
+                    "volunteer",
+                    "references"
+                ],
+                [
+                    "skills",
+                    "interests",
+                    "languages",
+                    "awards",
+                    "certifications",
+                    "publications"
+                ]
+            ]
+        ],
+        "locale": "en",
+        "template": "castform",
+        "typography": {
+            "size": {
+                "body": 14,
+                "heading": 28
+            },
+            "family": {
+                "body": "Open Sans",
+                "heading": "Open Sans"
+            }
+        }
+    },
+    "public": true
+}
